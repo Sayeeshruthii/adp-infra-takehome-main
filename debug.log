@@ -1,0 +1,96 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 513-744-688
+INFO:werkzeug: * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:24:35,785 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:24:35,797 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:26:14,197 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-23 19:26:14,197 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2023-01-23 19:26:14,208 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:26:14,685 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:26:14,696 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:26:26,790 INFO werkzeug Thread-1 :  * Detected change in 'c:\\users\\sayee\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2023-01-23 19:26:26,798 INFO werkzeug Thread-6 : 127.0.0.1 - - [23/Jan/2023 19:26:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-01-23 19:26:26,822 INFO werkzeug Thread-7 : 127.0.0.1 - - [23/Jan/2023 19:26:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-01-23 19:26:26,823 INFO werkzeug Thread-8 : 127.0.0.1 - - [23/Jan/2023 19:26:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-01-23 19:26:26,848 INFO werkzeug Thread-9 : 127.0.0.1 - - [23/Jan/2023 19:26:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-23 19:26:26,876 INFO werkzeug Thread-10 : 127.0.0.1 - - [23/Jan/2023 19:26:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-23 19:26:27,819 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:26:28,306 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:26:28,321 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:31:08,556 INFO werkzeug Thread-1 :  * Detected change in 'c:\\users\\sayee\\anaconda3\\Lib\\http\\client.py', reloading
+2023-01-23 19:31:09,622 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:35:31,438 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-23 19:35:31,438 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2023-01-23 19:35:31,449 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:35:31,950 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:35:31,960 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:35:35,331 INFO werkzeug Thread-6 : 127.0.0.1 - - [23/Jan/2023 19:35:35] "GET / HTTP/1.1" 200 -
+2023-01-23 19:35:41,998 INFO werkzeug Thread-7 : 127.0.0.1 - - [23/Jan/2023 19:35:41] "GET / HTTP/1.1" 200 -
+2023-01-23 19:38:09,748 INFO werkzeug Thread-1 :  * Detected change in 'c:\\users\\sayee\\anaconda3\\Lib\\site-packages\\h5py\\__init__.py', reloading
+2023-01-23 19:38:09,883 INFO werkzeug Thread-1 :  * Detected change in 'c:\\users\\sayee\\anaconda3\\Lib\\html\\__init__.py', reloading
+2023-01-23 19:38:10,061 INFO werkzeug Thread-1 :  * Detected change in 'c:\\users\\sayee\\anaconda3\\Lib\\http\\__init__.py', reloading
+2023-01-23 19:38:11,121 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:38:11,722 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:38:11,732 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:39:14,803 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:14,805 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:14,805 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:15,089 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:15,089 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:15,090 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:15,300 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:15,300 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:15,302 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:15,302 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:39:16,340 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:39:16,886 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:39:16,898 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:39:34,152 INFO werkzeug Thread-6 : 127.0.0.1 - - [23/Jan/2023 19:39:34] "GET / HTTP/1.1" 200 -
+2023-01-23 19:41:00,756 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-23 19:41:00,756 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2023-01-23 19:41:00,767 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:41:01,272 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:41:01,283 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:41:12,807 INFO werkzeug Thread-6 : 127.0.0.1 - - [23/Jan/2023 19:41:12] "GET / HTTP/1.1" 200 -
+2023-01-23 19:41:17,962 INFO werkzeug Thread-7 : 127.0.0.1 - - [23/Jan/2023 19:41:17] "GET / HTTP/1.1" 200 -
+2023-01-23 19:41:38,817 INFO werkzeug Thread-8 : 127.0.0.1 - - [23/Jan/2023 19:41:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-01-23 19:42:32,594 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:32,594 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:32,595 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:32,791 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:32,792 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:32,794 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:32,794 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:33,021 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:33,022 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:33,023 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:34,066 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:42:34,657 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:42:34,669 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:42:39,446 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:39,447 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:39,447 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:39,642 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:39,642 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:39,644 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:39,644 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:42:40,679 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:42:41,200 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:42:41,211 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
+2023-01-23 19:45:29,308 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:45:29,308 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:45:29,309 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:45:29,547 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:45:29,548 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:45:29,550 INFO werkzeug Thread-1 :  * Detected change in 'C:\\Users\\sayee\\Documents\\Personal\\Interview\\Autodesk\\adp-infra-takehome[44]\\adp-infra-takehome-main\\adp-infra-takehome-main\\app.py', reloading
+2023-01-23 19:45:30,587 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-01-23 19:45:31,344 WARNING werkzeug MainThread :  * Debugger is active!
+2023-01-23 19:45:31,365 INFO werkzeug MainThread :  * Debugger PIN: 513-744-688
